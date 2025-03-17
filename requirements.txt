@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-sqlalchemy
-psycopg[binary]
-pydantic
-dotenv
-psycopg2
